@@ -1,6 +1,7 @@
 ---
 title: Hello World Title From Frontmatter
 date: 2021/10/21
+slug: hello
 ---
 
 # {title}-{date}
