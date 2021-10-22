@@ -29,6 +29,8 @@
 			// 	redirect: '/posts'
 			// };
 			// NOTE Or we can return a 404
+			// NOTE Whatever we set here will get passed into our __error.svelte
+			// load({error, status}) function!
 			return {
 				status: 404,
 				error: 'Post not found'
